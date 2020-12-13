@@ -4,5 +4,5 @@ Simple led audio visualizer based on audio input from MAX9814. Current version u
 
 [![](http://img.youtube.com/vi/OVOd3yvKtcI/0.jpg)](http://www.youtube.com/watch?v=OVOd3yvKtcI "Action demo")
 
-![alt text](https://ibb.co/VYSrBg1)
+![alt text]([https://i.ibb.co/0yM8JC7/20201213-123724.jpg)
 
